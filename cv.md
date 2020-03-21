@@ -28,7 +28,7 @@ skype: dimka8445484
 
 **Education:**
 * LVIV  POLYTECHNIC NATIONAL  UNIVERSITY: ENGINEER-ANALYST IN COMPUTER SYSTEM
-* Udemy courses: modern html/css, modern javascript, ruby
+* Udemy courses: modern html/css, modern javascript, ruby.
 
 **Languages:**
 * English: B1
